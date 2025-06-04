@@ -41,7 +41,7 @@ You want a simple way to batch convert structured inputs to Markdown format
 ```bash
 pip install pandas openpyxl
 ```
-Save your Excel file ( stream_of_thoughts.xlsx) to your desired folder.
+Save your Excel file ( stream_of_thoughts.xlsx\csv) to your desired folder.
 
 Run the script
 ```python
@@ -90,10 +90,9 @@ Extracts each row from the “Raw Text” column
 
 Creates a uniquely named .md file for each row
 
-Writes the raw thought content to the file
 
 What Can This Code Do?
- Process 1000+ entries from Excel files
+ Process 1000+ entries from Excel\csv files
 
 Output cleanly named and structured Markdown files
 
