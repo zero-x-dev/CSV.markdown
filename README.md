@@ -52,15 +52,16 @@ python convert_to_markdown.py
 Your Markdown files will appear in:
 
 ```bash
-C:\Users\<yourname>\Downloads\stream_thoughts_md
+C:\Users\<visha>\Downloads\stream_thoughts_md
 ```
 
 ## Setting Up the Environment
 Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/csv-to-md-exporter.git
-cd csv-to-md-exporter
+git clone https://github.com/vishal320/CSV.markdown.git
+cd CSV.markdown
+
 ```
 Install dependencies:
 
