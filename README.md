@@ -52,7 +52,7 @@ python convert_to_markdown.py
 Your Markdown files will appear in:
 
 ```bash
-C:\Users\<visha>\Downloads\stream_thoughts_md
+C:\Users\visha\Downloads\stream_thoughts_md
 ```
 
 ## Setting Up the Environment
