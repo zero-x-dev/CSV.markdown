@@ -27,3 +27,5 @@ if __name__ == "__main__":
     excel_path = "C:\\Users\\Shifu05\\Downloads\\stream_of_thoughts (1).csv"
     output_directory = "C:\\Users\\Shifu05\\Documents\\stream_thoughts.md"
     convert_excel_to_markdown_files(excel_path, output_directory)
+
+    ##
