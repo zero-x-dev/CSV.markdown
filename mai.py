@@ -28,4 +28,4 @@ if __name__ == "__main__":
     output_directory = "C:\\Users\\Shifu05\\Documents\\stream_thoughts.md"
     convert_excel_to_markdown_files(excel_path, output_directory)
 
-    ##
+    
